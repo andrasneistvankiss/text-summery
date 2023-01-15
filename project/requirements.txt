@@ -3,3 +3,6 @@ uvicorn
 asyncpg
 tortoise-orm
 aerich
+pytest
+requests
+httpx
