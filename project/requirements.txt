@@ -8,3 +8,4 @@ requests
 httpx
 gunicorn
 pytest-cov
+newspaper3k
