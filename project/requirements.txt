@@ -6,3 +6,5 @@ aerich
 pytest
 requests
 httpx
+gunicorn
+pytest-cov
